@@ -14,7 +14,7 @@ Rashwanth - Notes Site
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Notes_Site/
+    https://rashwanthashok.github.io/Notes-site/
     
 ## Getting Started
 
