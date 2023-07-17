@@ -39,7 +39,8 @@ To explore or modify the code, follow these steps:
 
 3. Local Storage: Your notes are securely stored in your browser's local storage. Enjoy the convenience of saving and retrieving your notes even when you close the site or refresh the page. No need to worry about losing your valuable information.
 
-
+## Deployment status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5bd7eb29-3692-42df-a4fd-20ed6bc16bda/deploy-status)](https://app.netlify.com/sites/jsprojects5-notes-site/deploys)
 ## Contributing
 
 Contributions are always welcome!
